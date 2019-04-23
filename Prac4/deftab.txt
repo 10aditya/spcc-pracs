@@ -1,0 +1,4 @@
+EX1	&A,&B
+LDA	?5
+STA	?5
+MEND
