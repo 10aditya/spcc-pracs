@@ -4,6 +4,8 @@
 
 ### If using turbo c++ uncomment #include<conio.h>, getch() and clrscr of every program
 
+Note: If using turbo c++, you might get snprintf not defined error. To solve this, comment snprintf line and remove comment from itao line
+
 ### Output of every program is in Output.txt which is automatically generate by running the programm  
 
 ### If using ubuntu (best):
