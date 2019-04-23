@@ -2,7 +2,7 @@
 
 ### Input is mentioned at the end of program if needed
 
-### If using turbo c++ add uncomment #include<conio.h>, getch() and clrscr of every program
+### If using turbo c++ uncomment #include<conio.h>, getch() and clrscr of every program
 
 ### If using ubuntu (best):
 
