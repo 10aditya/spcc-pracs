@@ -4,6 +4,8 @@
 
 ### If using turbo c++ uncomment #include<conio.h>, getch() and clrscr of every program
 
+### Output of every program is in Output.txt which is automatically generate by running the programm  
+
 ### If using ubuntu (best):
 
 * install gcc for c:
