@@ -35,3 +35,12 @@ $ ./a.out
 $ g++ filename.cpp
 $ ./a.out
 ```
+### Contents:
+* [One Pass Assembler](https://github.com/10aditya/spcc-pracs/tree/master/prac3/one%20pass)
+* [Two Pass Assembler](https://github.com/10aditya/spcc-pracs/tree/master/prac3/two%20pass)
+* [Macro Processor](https://github.com/10aditya/spcc-pracs/tree/master/Prac4)
+* [Intermediate Code Generator](https://github.com/10aditya/spcc-pracs/tree/master/Prac5)
+* [Syntax Analyzer](https://github.com/10aditya/spcc-pracs/tree/master/prac6)
+* [First and Follow](https://github.com/10aditya/spcc-pracs/tree/master/Prac8)
+* [LL(1) Parsing](https://github.com/10aditya/spcc-pracs/blob/master/prac9/ll1parsing.cpp)
+* [Recursive Decent Parsing](https://github.com/10aditya/spcc-pracs/blob/master/prac9/recursivedescent.c)
